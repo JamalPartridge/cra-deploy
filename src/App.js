@@ -6,6 +6,8 @@ function App() {
     <div className="App">
       <h1>Pursuit App Template</h1>
       <h2>My new update</h2>
+      <h3>Another update
+      </h3>
     </div>
   );
 }
